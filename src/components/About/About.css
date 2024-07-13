@@ -5,6 +5,9 @@
 
 .about__name {
   color: var(--clr-primary);
+/* color: black; */
+  /* background-color: red; */
+  font-size: 60px !important;
 }
 
 .about__role {
@@ -13,7 +16,8 @@
 
 .about__desc {
   font-size: 1rem;
-  max-width: 600px;
+  max-width: 660px;
+  text-align: justify !important;
 }
 
 .about__desc,

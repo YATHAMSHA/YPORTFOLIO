@@ -4,6 +4,7 @@
   text-align: center;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  display: grid;
 }
 
 .project:hover {
@@ -12,9 +13,17 @@
 
 .project__description {
   margin-top: 1em;
+  text-align:left !important;
+margin-left: 25px !important;
+margin-right: 25px !important;
+/* gap: 250px !important; */
+/* flex: 100px; */
+/* margin: 0; */
+flex-direction: row;
 }
 
 .project__stack {
+  
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
