@@ -71,6 +71,11 @@ main {
   width: 100%;
 }
 
+.source:hover::before,
+.source:focus::before {
+  width: 10%;
+}
+
 .link--nav {
   color: var(--clr-fg);
   text-transform: lowercase;

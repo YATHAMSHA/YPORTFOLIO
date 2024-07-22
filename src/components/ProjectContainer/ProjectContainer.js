@@ -22,7 +22,7 @@ const ProjectContainer = ({ project }) => (
       <a
         href={project.sourceCode}
         aria-label='source code'
-        className='link link--icon'
+        className='link link--icon source'
       >
         <GitHubIcon />
       </a>
