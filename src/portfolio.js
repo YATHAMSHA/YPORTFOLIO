@@ -1,8 +1,6 @@
 const header = {
-<<<<<<< HEAD
   homepage: 'https://github.com/YATHAMSHA/YPORTFOLIO',
-=======
->>>>>>> 487a0c776a7cd1b38ffbc3519d35baa028dd01fa
+
   title: 'YS.'
 }
 
@@ -11,10 +9,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     "I'm a dedicated full-stack developer specializing in frontend technologies with 2+ years of experience,1+ years of internship experience. I excel in crafting responsive web interfaces using React, complemented by backend proficiency in Node.js and MongoDB, focusing on UI/UX design and performance optimization. Passionate about innovation, I thrive on overcoming challenges to deliver intuitive solutions that elevate user experiences and achieve business goals. Continuously learning and adapting to new trends, I'm committed to creating impactful web applications.",
-<<<<<<< HEAD
     resume: 'https://drive.google.com/file/d/1wGi_t9IlZmNTeEuKyHjUnN3wndWxDxiq/view',
-=======
->>>>>>> 487a0c776a7cd1b38ffbc3519d35baa028dd01fa
   social: {
     linkedin: 'https://www.linkedin.com/in/yatham024/',
     github: 'https://github.com/YATHAMSHA',
@@ -22,10 +17,6 @@ const about = {
 }
 
 const projects = [
-<<<<<<< HEAD
-
-=======
->>>>>>> 487a0c776a7cd1b38ffbc3519d35baa028dd01fa
   {
     name: 'CryptoTracker-app',
     description:
