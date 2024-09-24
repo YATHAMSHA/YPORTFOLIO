@@ -1,6 +1,4 @@
 const header = {
-  homepage: 'https://github.com/YATHAMSHA/YPORTFOLIO',
-
   title: 'YS.'
 }
 
